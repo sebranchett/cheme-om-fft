@@ -6,3 +6,5 @@ Tools to read in experimental results files and:
 * perform FFT
 * calculate ratio E_ref/E_sample
 * plot
+
+Funded by Technische Universiteit Delft.
