@@ -5,6 +5,7 @@ Tools to read in experimental results files and:
 * manipulate columns of data
 * perform FFT
 * calculate ratio E_ref/E_sample
+* calculate ration delta_E_trts / (delta_E_trts + E_tds)
 * plot
 
 Funded by Technische Universiteit Delft.
