@@ -8,4 +8,6 @@ Tools to read in experimental results files and:
 * calculate ratio delta_E_trts / (delta_E_trts + E_tds)
 * plot
 
+Some of these tools contributed to the work done at the TU Delft for [this article](https://arxiv.org/abs/2311.16740).
+
 Funded by Technische Universiteit Delft.
